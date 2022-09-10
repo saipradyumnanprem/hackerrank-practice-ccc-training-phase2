@@ -1,4 +1,5 @@
 //CCC code training phase 2
+//code -> C
 #include <string.h>
 #include <stdio.h>
 #include <math.h>
